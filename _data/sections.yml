@@ -5,7 +5,7 @@
       description: "Provides tutorials on how to block any content on any device for yourself or your family."
       tags: # these are optional buttons that appear in the card; you can include links, icons, or both. 
         - label: Homepage
-          icon: home
+          icon: home # available icon values are found here https://fomantic-ui.com/elements/icon.html
           url: "https://unplugs.org"
           tooltip: "unplugs.org homepage"
         - label: Screen Time
