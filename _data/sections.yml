@@ -2,23 +2,22 @@
   intro: "I develop software and tutorials to help people reduce their screen time."
   cards:
     - title: unplugs.org
-      url: "https://unplugs.org"
       description: "Provides tutorials on how to block any content on any device for yourself or your family."
-      tags:
+      tags: # these are optional buttons that appear in the card; you can include links, icons, or both. 
         - label: Homepage
-          icon: ban
+          icon: home
           url: "https://unplugs.org"
           tooltip: "unplugs.org homepage"
         - label: Screen Time
-          icon: apple
+          icon: fruit-apple
           url: "https://unplugs.org/docs/apple/screen-time"
           tooltip: "Apple parental controls"
         - label: Cold Turkey
-          image: "assets/images/cold-turkey.ico"
+          icon: "drumstick bite"
           url: "https://unplugs.org/docs/macos/cold-turkey"
           tooltip: "Website and application blocker for computers"
     - title: unplugumich.org
-      url: "https://unplugumich.org"
+      url: "https://unplugumich.org" # optional: if you want the card to link to the project url when clicked
       description: "Unplug UMich helps students manage screen time and build healthier digital habits."
     - title: Google Search Web Filter
       description: "Redirects your Google searches to the Web filter, which contains text-based links to websites."
