@@ -119,6 +119,7 @@
 
 
 - title: International Experience
+  cards_per_row: two
   cards:
     - title: RWTH Aachen University
       subtitle: "Aachen, Germany — 2025"
