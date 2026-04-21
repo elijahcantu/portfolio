@@ -1,8 +1,8 @@
 title: Elijah Cantu
 description: Elijah Cantu
 author: Elijah Cantu
-baseurl: ""
-url: "https://elijahcantu.com"
+baseurl: "" #leave blank
+url: "https://elijahcantu.github.io" #update elijahcantu to be your github username.
 
 # Profile
 headshot: headshot.jpg
